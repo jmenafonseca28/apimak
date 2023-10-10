@@ -1,6 +1,6 @@
 # apimak
 # Creador Elias Mena.
 
-# Contribuidores principales: 
+Contribuidores principales: 
 # Jonathan García
 # Jeykel Medrano
